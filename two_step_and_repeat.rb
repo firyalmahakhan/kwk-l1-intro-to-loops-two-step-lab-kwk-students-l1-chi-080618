@@ -2,7 +2,8 @@ def first_steps
   puts "Right foot back, Left foot back",
   puts "Right foot back and Stop"
 end
-two_steps_and_repeat.rb
+two_steps_and_repeat
+two_steps_and_repeat
 
 def a_few_more_steps
   # Write a loop that outputs the first two sets of steps in the Two-Step
