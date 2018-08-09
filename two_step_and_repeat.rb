@@ -1,5 +1,6 @@
 def first_steps
-  puts "Right foot back, Left foot back",
+  puts "Right foot back"
+  puts "Left foot back",
   puts "Right foot back and Stop"
 end
 first_steps
