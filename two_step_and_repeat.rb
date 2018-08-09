@@ -1,6 +1,6 @@
 def first_steps
-  puts "Right foot back", "Left foot back",
-  # "Right foot back", and "Stop", with sleep after each
+  puts "Right foot back, Left foot back",
+  puts "Right foot back and Stop"
 end
 
 def a_few_more_steps
