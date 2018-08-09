@@ -3,7 +3,8 @@ def first_steps
   puts "Left foot back",
   puts "Right foot back and Stop"
 end
-first_steps
+end
+
 first_steps
 
 #def a_few_more_steps
